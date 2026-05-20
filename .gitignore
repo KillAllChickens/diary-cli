@@ -1,0 +1,12 @@
+# Binary
+diary
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Temp
+/tmp/
